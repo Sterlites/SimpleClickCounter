@@ -1,7 +1,6 @@
-# testapp
+#First  testapp changed turned into game
 
-A new Flutter project.
-
+Click it, If you can! :)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
