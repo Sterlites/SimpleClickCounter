@@ -1,4 +1,4 @@
-#First  testapp changed turned into game
+#First  testapp turned into a game
 
 Click it, If you can! :)
 ## Getting Started
